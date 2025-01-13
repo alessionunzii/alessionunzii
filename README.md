@@ -5,11 +5,11 @@
 - SQL
 
 #### Things that i can use:
-- Java OOP
-- Python
-- C
-- C ++
+-Linux Shell
 - HTML & CSS
 - XML & XSD
+- Java OOP
+- Python
 - JSON
-- Linux Shell
+- C ++
+- C
