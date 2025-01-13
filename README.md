@@ -5,7 +5,6 @@
 - SQL
 
 #### Things that i can use:
--
 - Linux Shell
 - HTML & CSS
 - XML & XSD
