@@ -1,5 +1,5 @@
 ## Hi there 👋
-    ______ __    __                           
+
 #### Currently learning:
 - JavaScript
 - SQL
