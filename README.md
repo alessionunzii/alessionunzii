@@ -5,9 +5,9 @@
 - SQL
 
 #### Things that i can use:
-- Linux Shell
 - HTML & CSS
 - XML & XSD
+- Linux Shell
 - Java OOP
 - Python
 - JSON
