@@ -3,6 +3,7 @@
 #### Currently learning:
 - JavaScript
 - SQL
+- PHP
 
 #### Things that i can use:
 - HTML & CSS
