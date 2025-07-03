@@ -1,11 +1,9 @@
 ## Hi there 👋
 
-#### Currently learning:
+#### Things that i can use:
 - JavaScript
 - SQL
 - PHP
-
-#### Things that i can use:
 - HTML & CSS
 - XML & XSD
 - Linux Shell
